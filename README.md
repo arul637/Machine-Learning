@@ -25,3 +25,10 @@ Scikit-learn is a machine learning library for Python that provides simple and e
      click the above URL and install the Anaconda package, the instation process will quite simple,
 
   2. install using conda environment
+
+     ```
+     conda install scikit-learn
+     ```
+     This will install the latest version of scikit-learn and its dependencies into your Conda environment. Conda is a package manager and an environment manager, so it helps manage dependencies and isolate your Python environment for            different projects. After the installation is complete.
+     <br>
+     Since, conda environment will preinstall the addtional requirements, so it will not require any complex process
