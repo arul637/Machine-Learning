@@ -17,4 +17,11 @@ Scikit-learn is a machine learning library for Python that provides simple and e
      pip install scikit-learn
      ```
      This command will download and install the latest version of scikit-learn from the Python Package Index (PyPI), but this will require the addition packages, to install, like notebook, numpy, pandas etc...,
-     when we download the anaconda package or miniconda environment, it will preinstall the additional requirements, by using `pyPI` will require, microsoft redistributable 2019, cmake and addition .net frameworks, so we need to install          manually and then install the package, this process requrie more space
+     when we download the anaconda package or miniconda environment, it will preinstall the additional requirements, by using `pyPI` will require, microsoft redistributable 2019, cmake and addition .net frameworks, so we need to install          manually and then install the package, this process requrie more space. so we can install the Anaconda Package,
+
+     ## Installation of Anaconda Environment
+     https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Windows-x86_64.exe
+     <br>
+     click the above URL and install the Anaconda package, the instation process will quite simple,
+
+  2. install using conda environment
